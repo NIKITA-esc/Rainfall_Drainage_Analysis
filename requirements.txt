@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+openpyxl   # needed to read Excel files
+jupyter    # to run Jupyter notebooks
